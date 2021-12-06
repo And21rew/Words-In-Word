@@ -343,7 +343,14 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/Scripts/CountFps.cs"
+"Assets/Scripts/FirstStart.cs"
+"Assets/Scripts/GameSound.cs"
+"Assets/Scripts/HelpInMenu.cs"
 "Assets/Scripts/Input.cs"
+"Assets/Scripts/MainSound.cs"
+"Assets/Scripts/Menu.cs"
+"Assets/Scripts/UnlockLevels.cs"
 -langversion:8.0
 
 /deterministic
