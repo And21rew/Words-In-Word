@@ -339,4 +339,10 @@ public class Input : MonoBehaviour
     {
         audioSource.PlayOneShot(findWordSound);
     }
+
+    public void ClearOneCharInInput()
+    {
+        inputWord = inputWord.Remove(inputWord.Length - 1);
+        inputLimit--;
+    }
 }
