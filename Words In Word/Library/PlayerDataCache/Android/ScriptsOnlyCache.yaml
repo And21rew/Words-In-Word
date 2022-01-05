@@ -47,9 +47,6 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
-    UnityEngine.Advertisements.dll:
-    - UnityEngine.Advertisements.Placeholder
-    - UnityEngine.Advertisements.Platform.Editor.BannerPlaceholder
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -2381,4 +2378,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Level18.unity
   - Assets/Scenes/Level19.unity
   - Assets/Scenes/Level20.unity
-  playerPath: C:/Users/Andrew/Documents/GitHub/Words-In-Word/release/Word1.1.aab
+  playerPath: C:/Users/Andrew/Documents/GitHub/Words-In-Word/release/Word1.3.aab
